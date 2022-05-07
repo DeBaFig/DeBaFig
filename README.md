@@ -94,33 +94,31 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
    * [Personal Website](#personal-website)
    * [Seneca IPC144 Workshops](#seneca-ipc144-workshops)
    * [DIO Projeto Catálogo de Séries](#dio-projeto-catálogo-de-séries)
-   * [DIO Projeto Interface *tipo* Netflix](#dio-projeto-catálogo-de-séries)
+   * [DIO Projeto Interface tipo Netflix](#dio-projeto-interface-tipo-netflix)
       
 
 
 ### Personal Website
 
-en-US <img src="https://user-images.githubusercontent.com/46844031/167033892-c3dd1baa-a24e-410b-a65e-eaeaf4292499.png" height="30"/>
+<img src="https://user-images.githubusercontent.com/46844031/167033892-c3dd1baa-a24e-410b-a65e-eaeaf4292499.png" height="30"/> en-US 
 
 <a href="https://github.com/DeBaFig/me"><img src="https://user-images.githubusercontent.com/46844031/167234622-bb4321b2-5a9f-482c-bc8b-53be4ca36a22.png" height="500"/></a>
   
 ### Seneca IPC144 Workshops
 
-en-US <img src="https://user-images.githubusercontent.com/46844031/167033892-c3dd1baa-a24e-410b-a65e-eaeaf4292499.png" height="30"/>
+ <img src="https://user-images.githubusercontent.com/46844031/167033892-c3dd1baa-a24e-410b-a65e-eaeaf4292499.png" height="30"/> en-US
 
 <a href="https://github.com/DeBaFig/1st-term"><img src="https://user-images.githubusercontent.com/46844031/163506188-57baccc2-6610-4f39-8429-5ddeb1d8c2f2.gif" height="500"/></a>
 
 ### DIO Projeto Catálogo de Séries
 
-pt-BR
-    <img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/>
+<img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/> pt-BR
 
 <a href="https://github.com/DeBaFig/DIO-Projeto-Catalogo"><img src="https://user-images.githubusercontent.com/46844031/163734478-21d66466-afc2-4e55-b287-d1a1405909f6.gif" height="500"/></a>
 
-### Interface *tipo* Netflix
+### DIO Projeto Interface tipo Netflix
 
-pt-BR
-    <img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/>
+<img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/> pt-BR
 
 <a href="https://github.com/DeBaFig/DIO-Projeto-Interface-tipo-Netflix"><img src="https://user-images.githubusercontent.com/46844031/167232964-c94a3ace-3985-45e8-8df3-c5cec0562e1f.png" height="500"/></a>
 
@@ -135,13 +133,3 @@ pt-BR
 
 <a href="https://www.flaticon.com/br/icones-gratis/brasil" title="brasil ícones">ícones criados por Dighital - Flaticon</a>
 
-<!-- 
-<p align="center">
-  pt-BR
-    <img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/>
-  en-US
-    <img src="https://user-images.githubusercontent.com/46844031/167033892-c3dd1baa-a24e-410b-a65e-eaeaf4292499.png" height="30"/>
-</p>
-  <a href=""><img src="" weight="300"/></a>
-  
--->
