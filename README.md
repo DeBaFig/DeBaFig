@@ -107,7 +107,7 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
 
  <img src="https://user-images.githubusercontent.com/46844031/167033892-c3dd1baa-a24e-410b-a65e-eaeaf4292499.png" height="30"/> en-US
 
-<a href="https://github.com/DeBaFig/1st-term"><img src="https://user-images.githubusercontent.com/46844031/163506188-57baccc2-6610-4f39-8429-5ddeb1d8c2f2.gif" height="500"/></a>
+<a href="https://github.com/DeBaFig/IPC144-Workshops" height="500"/></a>
 
 ### DIO Projeto Catálogo de Séries
 
