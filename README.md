@@ -58,9 +58,9 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="20" />
     <img src="https://progress-bar.dev/50/" height="20"/>   
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20" />
-    <img src="https://progress-bar.dev/30/" height="20" />   
+    <img src="https://progress-bar.dev/50/" height="20" />   
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="20" />
-    <img src="https://progress-bar.dev/20/" height="20" />
+    <img src="https://progress-bar.dev/50/" height="20" />
 </p>
 <h3 align="center">DATABASE</h3>
 <p align="center">
