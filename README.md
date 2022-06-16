@@ -94,6 +94,7 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
    * [Seneca IPC144 Workshops](#seneca-ipc144-workshops)
    * [DIO Projeto Catálogo de Séries](#dio-projeto-catálogo-de-séries)
    * [DIO Projeto Interface tipo Netflix](#dio-projeto-interface-tipo-netflix)
+   * [Site Luta contra o trabalho Infantil](#site-luta-contra-o-trabalho-infantil)
       
 
 
@@ -121,7 +122,13 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
 
 <img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/> pt-BR
 
-<a href="https://github.com/DeBaFig/DIO-Projeto-Interface-tipo-Netflix"><img src="https://user-images.githubusercontent.com/46844031/167232964-c94a3ace-3985-45e8-8df3-c5cec0562e1f.png" height="500"/></a>
+<a href="https://github.com/DeBaFig/DIO-Projeto-Interface-tipo-Netflix"><img src="https://user-images.githubusercontent.com/46844031/167232964-c94a3ace-3985-45e8-8df3-c5cec0562e1f.png" height="500"/></a>  
+
+### Site Luta contra o trabalho Infantil  
+
+<img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/> pt-BR
+
+<a href="https://github.com/DeBaFig/site-nick-projeto"><img src="https://user-images.githubusercontent.com/46844031/173963221-dacf1ea7-bfb7-4bab-bdad-afe141e25fef.png" height="500"/></a>  
 
 ## Status
 
