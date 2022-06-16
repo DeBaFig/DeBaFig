@@ -114,7 +114,7 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
 ### DIO Projeto Catálogo de Séries
 
 <img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/> pt-BR
-
+https://github.com/DeBaFig/DIO-Projeto-Catalogo
 <a href="https://github.com/DeBaFig/DIO-Projeto-Catalogo"><img src="https://user-images.githubusercontent.com/46844031/163734478-21d66466-afc2-4e55-b287-d1a1405909f6.gif" height="500"/></a>
 
 ### DIO Projeto Interface tipo Netflix
