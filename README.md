@@ -21,7 +21,10 @@ Aprender a programar é quase uma necessidade para mim, minha cabeça às vezes 
 
 Sou uma avida leitora, e o inglês me ajudou muito a expandir ainda mais meu repertório de livros. Após iniciar meu curso de COM111 na Seneca eu também peguei gosto por escrever.
 
-Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me ajudou muito a ser uma profissional que não só aprende rápido, mas que toma inciativa para resolver problemas e ensinar quem precisa.
+Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me ajudou muito a ser uma profissional que não só aprende rápido, mas que toma inciativa para resolver problemas e ensinar quem precisa.   
+
+
+
 
 ## Conhecimentos
 
@@ -95,6 +98,7 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
    * [DIO Projeto Catálogo de Séries](#dio-projeto-catálogo-de-séries)
    * [DIO Projeto Interface tipo Netflix](#dio-projeto-interface-tipo-netflix)
    * [Site Luta contra o trabalho Infantil](#site-luta-contra-o-trabalho-infantil)
+   * [Portifólio ENTRA21 2022 PHP](#portifólio-entra21-2022-PHP)
       
 
 
@@ -129,6 +133,14 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
 <img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/> pt-BR
 
 <a href="https://github.com/DeBaFig/site-nick-projeto"><img src="https://user-images.githubusercontent.com/46844031/173963221-dacf1ea7-bfb7-4bab-bdad-afe141e25fef.png" height="500"/></a>  
+
+### Portifólio ENTRA21 2022 PHP 
+[currículo](https://github.com/DeBaFig/DeBaFig/files/9032393/Denize.Bassi.Figueiredo.pdf)  
+
+<img src="https://user-images.githubusercontent.com/46844031/167033219-113ac953-af06-419c-a5a9-bc73336edb0c.png" height="30"/> pt-BR
+
+<a href="https://portifolio-php-entra21.herokuapp.com/"><img src="https://user-images.githubusercontent.com/46844031/176985774-d9a5c228-e7c5-4da3-a2c5-d63ad74e7a0d.png" height="500"/></a>  
+
 
 ## Status
 
