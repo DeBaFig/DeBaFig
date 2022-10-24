@@ -67,7 +67,7 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
 ## Status
 
 ![Denize's GitHub stats](https://github-readme-stats.vercel.app/api?username=debafig&hide=contribs&count_private=true&show_icons=true)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debafig&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debafig&layout=compact&hide=css)
 
 <hr>  
 
