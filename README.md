@@ -55,7 +55,7 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
 
 ## Projetos
 
-   * [Personal Website](https://github.com/DeBaFig/DeBaFig)
+   * [Personal Website](https://github.com/DeBaFig/me)
    * [Seneca IPC144 Workshops](https://github.com/DeBaFig/IPC144-Workshops)
    * [ENTRA21 - Projeto Balcão Brasil 2022 PHP](https://github.com/DeBaFig/ProjetoEntra21-22-PHP/tree/main/remake)
    * [ENTRA21 - Projeto Back2Home1 2022 PHP](https://github.com/DeBaFig/php-back2home1)
