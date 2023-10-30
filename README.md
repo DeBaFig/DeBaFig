@@ -1,17 +1,13 @@
 <p align="right">
-<a target="_blank" href="https://debafig.github.io/me/"><img src="https://user-images.githubusercontent.com/46844031/167030738-c1683b02-bc1a-4095-8f53-b77d092b5daf.png" height="300"/></a>
+<a target="_blank" href="https://debafig.github.io/me/"><img src="https://github.com/DeBaFig/DeBaFig/assets/46844031/5c2637e6-afde-4cf6-bed0-4e694ee4cdb5" height="300"/></a>
 </p>
 
-# Olá! Prazer, meu nome é Denize.
+# Olá! Prazer, meu nome é Denize.  
 
-
-Aprender a programar é quase uma necessidade para mim, minha cabeça às vezes inventa tanta coisa! Que se tornou imprescindível a habilidade de transformar minhas ideias em códigos e códigos em soluções!
-
-Sou uma avida leitora, e o inglês me ajudou muito a expandir ainda mais meu repertório de livros. Após iniciar meu curso de COM111 na Seneca eu também peguei gosto por escrever.
-
-Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me ajudou muito a ser uma profissional que não só aprende rápido, mas que toma inciativa para resolver problemas e ensinar quem precisa.   
-
-
+Aprender a programar é quase uma necessidade para mim, minha cabeça às vezes inventa tanta coisa! Que se tornou imprescindível a habilidade de transformar minhas ideias em códigos e códigos em soluções!  
+Sou uma avida leitora, e o inglês me ajudou muito a expandir ainda mais meu repertório de livros. Após iniciar meu curso de COM111 na Seneca eu também peguei gosto por escrever.  
+Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me ajudou muito a ser uma profissional que não só aprende rápido, mas que toma inciativa para resolver problemas e ensinar quem precisa. 
+Agora estou numa jornada com a [BRCondos](https://brcondos.com.br/), a equipe que eu participa faz o software que é usado para administrar condomínios com excelência! Estou aprendendo muito, e poder colocar em prática tudo que aprendi é muito empolgante!
 
 
 ## Conhecimentos
@@ -23,6 +19,7 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20" />
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="20" />
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="20" />
 </p>
 
 <h3 align="center">BACK-END</h3>
@@ -39,6 +36,7 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
 <p align="center">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="20" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="20" />
 </p>
 <h3 align="center">PLATAFORMAS E SISTEMAS OPERACIONAIS</h3>
 <p align="center">
@@ -62,7 +60,6 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
    * [Loja online- exercício em PHP](https://github.com/DeBaFig/laravel-online-store/tree/master/online-store-denize)
    * [Site Luta contra o trabalho Infantil](https://github.com/DeBaFig/site-nick-projeto)
    * [DIO Projeto Catálogo de Séries](https://github.com/DeBaFig/DIO-Projeto-Catalogo)
-      
 
 ## Status
 
