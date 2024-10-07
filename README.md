@@ -7,8 +7,6 @@
 Aprender a programar é quase uma necessidade para mim, minha cabeça às vezes inventa tanta coisa! Que se tornou imprescindível a habilidade de transformar minhas ideias em códigos e códigos em soluções!  
 Sou uma avida leitora, e o inglês me ajudou muito a expandir ainda mais meu repertório de livros. Após iniciar meu curso de COM111 na Seneca eu também peguei gosto por escrever.  
 Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me ajudou muito a ser uma profissional que não só aprende rápido, mas que toma inciativa para resolver problemas e ensinar quem precisa. 
-Agora estou numa jornada com a [BRCondos](https://brcondos.com.br/), a equipe que eu participa faz o software que é usado para administrar condomínios com excelência! Estou aprendendo muito, e poder colocar em prática tudo que aprendi é muito empolgante!
-
 
 ## Conhecimentos
 
