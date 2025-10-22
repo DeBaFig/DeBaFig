@@ -1,4 +1,9 @@
-# 👋 Hi there! I'm Denize  
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Denize!;" />
+</h1>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=debafig" />
+
 
 🎯 **Back-end Developer | .NET | C# | SQL | Vue.js | AWS | DevOps**
 
@@ -52,7 +57,7 @@ My goal is to keep evolving as a developer and collaborate with teams that value
 
 ## 🚀 Featured Projects  
 
-🔹 [**Escrow WebApp (HackMeridian 2025)**](https://github.com/DeBaFig/meridian_delivery_project) — Web App with Stellar smart contracts  
+🔹 [**Escrow WebApp (HackMeridian 2025)**](https://github.com/hirodevbr/cargo-trust.git) — Web App with Stellar smart contracts  
 🔹 [**Patient Triage System (C++)**](#) — Academic project focusing on performance and algorithmic logic    
 🔹 [**Ad Listing WebApp**](https://github.com/DeBaFig/ProjetoEntra21-22-PHP) — Marketplace to anounce when you're purchasing something  
 🔹 [**Patient Triage System (C++)**](https://github.com/DeBaFig/2nd-term) — Academic project focusing on performance and algorithmic logic  
