@@ -52,11 +52,10 @@ My goal is to keep evolving as a developer and collaborate with teams that value
 
 ## 🚀 Featured Projects  
 
-🔹 [**Cognitive Asset Manager (CAM)**](#) — Automation and AI-based metadata generation platform (Globo)  
-🔹 [**EFD-Reinf & SPED Integrations**](#) — .NET Core asynchronous integration with fiscal systems (BRCondos)  
-🔹 [**Escrow WebApp (Stellar Ecosystem)**](#) — Blockchain escrow solution using smart contracts  
-🔹 [**Patient Triage System (C++)**](#) — Academic project focusing on performance and algorithmic logic  
-🔹 [**Sound-Controlled Switch**](#) — Embedded system for sound-based device activation  
+🔹 [**Escrow WebApp (HackMeridian 2025)**](https://github.com/DeBaFig/meridian_delivery_project) — Web App with Stellar smart contracts  
+🔹 [**Patient Triage System (C++)**](#) — Academic project focusing on performance and algorithmic logic    
+🔹 [**Ad Listing WebApp**](https://github.com/DeBaFig/ProjetoEntra21-22-PHP) — Marketplace to anounce when you're purchasing something  
+🔹 [**Patient Triage System (C++)**](https://github.com/DeBaFig/2nd-term) — Academic project focusing on performance and algorithmic logic  
 
 ---
 
@@ -69,26 +68,21 @@ My goal is to keep evolving as a developer and collaborate with teams that value
 
 ---
 
-## 📊 GitHub Stats  
-
-![Denize's GitHub stats](https://github-readme-stats.vercel.app/api?username=debafig&hide=contribs&count_private=true&show_icons=true)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debafig&layout=compact&hide=css)
-
----
-
 ## ✉️ Let's Connect  
 
 📧 **denize.f.bassi@gmail.com**  
 💼 [**LinkedIn**](https://www.linkedin.com/in/denizebassi/)  
-🌐 [**Portfolio / Projects**](https://github.com/DeBaFig?tab=repositories)
 
-[Plataforma de Anúncios Web - Balcão Brasil(PHP)](https://github.com/DeBaFig/ProjetoEntra21-22-PHP) - Marketplace to notify when you're purchasing something
-[Sistema de Triagem de Pacientes - Collage Workshops - C++](https://github.com/DeBaFig/2nd-term) - Hospital queue management with priority logic  
-[Plataforma Escrow (Blockchain/Stellar) - HackMeridian 2025 - Rust](https://github.com/DeBaFig/meridian_delivery_project) - Web App with Stellar smart contracts  
-[Jogo Indie (Godot/Pygame)](#) - ...
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbfigueiredo/)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denize.f.bassi@gmail.com)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeBaFig)   
+[![website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://debafig.github.io/me/)   
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5547935051914)  
 
-<hr>  
+---
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dbassi91)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbfigueiredo/)   [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denize.f.bassi@gmail.com)   [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/debafig)   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/d.bassi91/)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeBaFig)   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bassidenize/)   [![website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://debafig.github.io/me/)   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5547988184372)  [![Discord](https://img.shields.io/badge/DeBaFig%235875-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/DeBaFig#5875)  
+## 📊 GitHub Stats  
+
+![Denize's GitHub stats](https://github-readme-stats.vercel.app/api?username=debafig&hide=contribs&count_private=true&show_icons=true)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debafig&layout=compact&hide=css)
 
