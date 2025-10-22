@@ -1,5 +1,3 @@
-esse pedi ajuda pra IA, veja o que acha, fiz voltado para toda parte tecnica com foco em busca de vagas
-
 # 👋 Hi there! I'm Denize  
 
 🎯 **Back-end Developer | .NET | C# | SQL | Vue.js | AWS | DevOps**
